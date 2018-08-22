@@ -1,5 +1,7 @@
 package com.core.util;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
 /**
  * 创建一个int类型的数组
  * @author reborntodie
